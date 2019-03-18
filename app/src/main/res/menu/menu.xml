@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Silver"
+        android:id="@+id/s"/>
+    <item android:title="Retro"
+        android:id="@+id/r"/>
+    <item android:title="Night"
+        android:id="@+id/n"/>
+    <item android:title="Dark"
+        android:id="@+id/d"/>
+    <item android:title="Aubergine"
+        android:id="@+id/a"/>
+</menu>
