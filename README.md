@@ -1,4 +1,2 @@
 # map_integration
-app
-it will help find location in map view and pin point your location 
-on a android platform.
+This android app will help users to find and pin point their location in map view.
